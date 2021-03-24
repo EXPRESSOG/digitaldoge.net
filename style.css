@@ -7,9 +7,3 @@ body {
   p {
     color: red;
   }
-  a:hover {
-    color:rgb(255, 230, 0);
-  }
-  a:visited {
-    color: rgb(0, 255, 106);
-  }
